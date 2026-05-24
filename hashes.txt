@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Under The Willow
+
+This log tracks the cryptographic history and versioning for the song **Under The Willow** (under-the-willow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:46:00.086761 | `v1` | `2c24adf6b8089e2ede6b8d59890060d03cbebbcedf512912aaef1b190e7a58cf` | `28807305a3511a743d1d1df3b3cee92545dab8e962285515c42a01c86e566dac` | `2026-05-25_under-the-willow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
